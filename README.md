@@ -1,4 +1,5 @@
-### Hello there, my name is crazz and I am a software developer👋
+### Hello there, my name is crazz and I am a software developer 
+![Alt Text](/images/content/34341808/45800cf790f648a928bb8a8e0e3e8680.gif)
 
 <!--
 **DevCrazz/DevCrazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
