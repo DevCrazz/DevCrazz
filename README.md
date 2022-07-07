@@ -1,5 +1,5 @@
 ### Hello there, my name is crazz and I am a software developer 
-![Alt Text](/73463-if-you-are-new-here.gif)
+<!--![Alt Text](/73463-if-you-are-new-here.gif)-->
 
 <!--
 **DevCrazz/DevCrazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
